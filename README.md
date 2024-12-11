@@ -21,18 +21,10 @@ Predicted Label: Virginica
 
 ## Notes
 - Ensure that the input for predictions is numeric and follows the correct format(`value1, vlaue2`).
+- Modifiy the dataset loading path in the script if necessary.
 
-## Setup
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/CAU-AID-Class.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd CAU-AID-Class
-   ```
-3. Install required libraries:
-   ```bash
-   pip install pandas scikit-learn
-   ```
-4. Ensure the `iris.csv` dataset is available in the project directory.
+## License
+This project is licensed under the MIT License.
+
+## Author
+Developed by 이명건
